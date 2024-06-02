@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab14_impint</string>
+    <string name="open_url">Open URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="enter_text_to_share">Enter text to share</string>
+    <string name="share_text">Share Text</string>
+</resources>

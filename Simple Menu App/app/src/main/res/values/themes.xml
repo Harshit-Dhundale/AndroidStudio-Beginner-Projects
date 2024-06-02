@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with ActionBar -->
+    <style name="Base.Theme.Menu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/primaryText</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondaryDark</item>
+        <item name="colorOnSecondary">@color/secondaryText</item>
+    </style>
+
+    <style name="Theme.Menu" parent="Base.Theme.Menu" >
+        <!-- Customize your theme here. This style inherits from Base.Theme.Menu -->
+    </style>
+</resources>

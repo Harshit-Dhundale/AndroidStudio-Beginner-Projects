@@ -1,0 +1,43 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/displayRegNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reg No: "/>
+
+    <TextView
+        android:id="@+id/displayName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: "/>
+
+    <TextView
+        android:id="@+id/displayGrade1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grade 1: "/>
+
+    <TextView
+        android:id="@+id/displayGrade2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grade 2: "/>
+
+    <TextView
+        android:id="@+id/displayGrade3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grade 3: "/>
+
+    <TextView
+        android:id="@+id/displayCGPA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CGPA: "/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StringResourceDemo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="description">This is an example app to demonstrate the usage of the strings.xml file.</string>
+</resources>

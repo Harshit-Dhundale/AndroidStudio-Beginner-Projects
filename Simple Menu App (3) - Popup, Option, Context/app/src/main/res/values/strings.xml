@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3menu</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="context_option_1">Context Option 1</string>
+    <string name="context_option_2">Context Option 2</string>
+    <string name="popup_option_1">Popup Option 1</string>
+    <string name="popup_option_2">Popup Option 2</string>
+    <string name="long_press_me_for_context_menu">Long press me for Context Menu</string>
+    <string name="show_popup_menu">Show Popup Menu</string>
+</resources>

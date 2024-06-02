@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ascii</string>
+    <string name="input_hint">Enter text</string>
+    <string name="convert_button">Convert</string>
+</resources>
